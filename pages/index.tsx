@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://lightningbridge.com">
-            Convert your alts to sats with Lighting Bridge.
+            Convert your alts to sats with Lightning Bridge.
           </a>
         </footer>
       </Layout>
